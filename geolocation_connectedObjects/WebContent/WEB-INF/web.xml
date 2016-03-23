@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+	<servlet>
+		<servlet-name>CreationObjet</servlet-name>
+		<servlet-class>com.geolocation.servlets.CreationObjet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>CreationObjet</servlet-name>
+		<url-pattern>/creationObjet</url-pattern>
+	</servlet-mapping>
+</web-app>
